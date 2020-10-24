@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-function Nav(props) {
+function Header(props) {
     return (
     <div>
       <Link to="/about">
@@ -17,4 +17,4 @@ function Nav(props) {
     )
 }
 
-export default Nav;
+export default Header;

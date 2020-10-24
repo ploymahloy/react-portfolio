@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Password Generator",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG",
+    "description": "An app that randomly generates a password based on length and character type."
+  },
+  {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG",
+    "description": "A 5-day forecast app that shows temperature, humidity, precipitation, and UV-index."
+  },
+  {
+    "id": 3,
+    "name": "Template Engine",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG",
+    "description": "A command line interface that allows the user to generate a card based on inquirer prompt data."
+  },
+  {
+    "id": 4,
+    "name": "Note Taker",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG",
+    "description": "A note-taking app that allows the user to write, edit, and delete their notes."
+  },
+  {
+    "id": 5,
+    "name": "Procrasti-Dater",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG",
+    "description": "This app provides the location of restaurants based on user-selected cuisine and radius relative to their date location."
+  },
+  {
+    "id": 6,
+    "name": "Jinji",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG",
+    "description": "This app was designed to be used by HR professionals to allow them access to an employee database in SQL."
+  }
+]
