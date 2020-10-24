@@ -2,7 +2,10 @@ import React from "react";
 
 function Contact(props) {
     return (
-        <p>Here is my contact info.</p>
+        <div>
+            <a href="https://github.com/ploymahloy">GitHub</a> <br></br>
+            <a href="https://www.linkedin.com/in/patrickmahloy/">LinkedIn</a>
+        </div>
     );
 };
 
