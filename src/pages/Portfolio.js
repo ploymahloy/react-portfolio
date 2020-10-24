@@ -9,32 +9,32 @@ function Portfolio(props) {
             <Project
                 name={projects[0].name}
                 image={projects[0].image}
-                description={projects[0].description}š
+                description={projects[0].description}
             />
             <Project
                 name={projects[1].name}
                 image={projects[1].image}
-                description={projects[1].description}š
+                description={projects[1].description}
             />
             <Project
                 name={projects[2].name}
                 image={projects[2].image}
-                description={projects[2].description}š
+                description={projects[2].description}
             />
             <Project
                 name={projects[3].name}
                 image={projects[3].image}
-                description={projects[3].description}š
+                description={projects[3].description}
             />
             <Project
                 name={projects[4].name}
                 image={projects[4].image}
-                description={projects[4].description}š
+                description={projects[4].description}
             />
             <Project
                 name={projects[5].name}
                 image={projects[5].image}
-                description={projects[5].description}š
+                description={projects[5].description}
             />
         </div>
     );
