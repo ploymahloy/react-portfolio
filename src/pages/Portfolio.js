@@ -1,9 +1,12 @@
 import React from "react";
-import Nav from "../components/Header";
+import Project from "../components/Project";
 
 function Portfolio(props) {
     return (
-        <p>Here are my projects.</p>
+        <div>
+            <p>Here are my projects.</p>
+            <Project/>
+        </div>
     );
 };
 
