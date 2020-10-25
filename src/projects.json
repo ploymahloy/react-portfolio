@@ -9,7 +9,7 @@
     "id": 2,
     "name": "Weather Dashboard",
     "image":"img/weather-dashboard.png",
-    "description": "A 5-day forecast app that shows temperature, humidity, precipitation, and UV-index."
+    "description": "A 5-day forecast app that shows temperature, humidity, wind-speed, and UV-index."
   },
   {
     "id": 3,

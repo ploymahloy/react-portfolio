@@ -3,9 +3,9 @@ import "./Footer.css";
 
 function Footer(props) {
     return (
-    <span className="footer">
+    <div className="footer">
       Patrick Mahloy © 2020
-    </span>
+    </div>
     )
 }
 
