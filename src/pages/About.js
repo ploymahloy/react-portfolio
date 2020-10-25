@@ -1,8 +1,17 @@
 import React from "react";
+import "./About.css";
 
 function About(props) {
     return (
-        <p>Patrick's first career was in direct sales with Verizon, where he rose to the top and became the go to rep for new sales people to model. He was quickly recruited by his own customer to manage a travelling sales team in the wholesale meat industry. After getting his fill in sales, Patrick realized he wanted to use these skills to work in a team environment. Soon after, he enrolled in the University of Richmond's Coding Bootcamp. Patrick has enjoyed learning how to create the very apps his Verizon customers use on their devices.</p>
+        <div>
+            <img src="/img/profile.jpeg"/>
+            <p>
+                Patrick's first career was in direct sales starting with door to door and eventually leading to retail and tent events. After getting his fill in sales, Patrick realized he wanted to use his communication skills to work in a team environment. Soon after, he enrolled in the University of Richmond's Coding Bootcamp.
+            </p>
+            <p>
+                Patrick not only hopes to have a good career, but is securing his career's longjevity by coding every day and picking up certifications such as PMI's CAPM (Certified Associate in Project Management) and ITIL's Foundation Certification. Patrick aspires to be the best IT professional he can be and looks forward to many years of new relationships and projects.
+            </p>
+        </div>
     );
 };
 
