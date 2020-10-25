@@ -11,7 +11,7 @@ import "./components/Footer.css";
 function App() {
   return (
     <Router>
-      <div>
+      <div className="wrapper">
         <Header/>
           <Switch>
             <Route exact path={"/"} component={About}/>
