@@ -5,13 +5,13 @@ import "./Header.css";
 function Header(props) {
     return (
     <div className="header">
-      <Link to="/about">
+      <Link to="/about" className="link">
           About
       </Link> 
-     <Link to="/portfolio">
+     <Link to="/portfolio" className="link">
           Portfolio
       </Link>
-      <Link to="/contact">
+      <Link to="/contact" className="link">
           Contact
       </Link>
     </div>

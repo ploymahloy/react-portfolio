@@ -9,3 +9,15 @@
     padding: 10px;
     font-size: large;
 }
+
+.link:visited {
+    color: black;
+}
+
+.link:link {
+    text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
