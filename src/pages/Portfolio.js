@@ -5,7 +5,6 @@ import projects from "../projects.json";
 function Portfolio(props) {
     return (
         <div>
-            <p>Here are my projects.</p>
             <Project
                 name={projects[0].name}
                 image={projects[0].image}
